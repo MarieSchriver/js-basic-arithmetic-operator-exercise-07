@@ -27,6 +27,7 @@
    - `subtotal` with an initial value of $50.
    - `shipping` with an initial value of $10.
    - `quantity` with an initial value of 3.
+   
 6. Use the `+=` operator to add $20 to the `subtotal`.
 
 7. Calculate the total excluding tax (`totalExclusivTax`) as `(quantity * subtotal) + shipping`.
